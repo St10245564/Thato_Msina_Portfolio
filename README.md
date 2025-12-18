@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ LUMINA
+# ✨ Thato Msina Portfoloi
 
 ### Next-Generation AI/ML Engineer Portfolio
 
