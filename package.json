@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-dom": "^19.2.3",
+    "react-dom": "18.2.0",
     "framer-motion": "11.0.8",
     "lucide-react": "0.263.1"
   },
@@ -21,3 +21,4 @@
     "vite": "^6.2.0"
   }
 }
+
